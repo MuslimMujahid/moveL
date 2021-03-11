@@ -1,0 +1,17 @@
+{
+  "name": "moveL",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/MuslimMujahid/moveL.git",
+  "author": "MuslimMujahid <muslimmujahid1712@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "serve": "nodemon server.js"
+  }
+}
