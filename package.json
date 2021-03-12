@@ -6,12 +6,13 @@
   "author": "MuslimMujahid <muslimmujahid1712@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "config": "^3.3.6",
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
   "scripts": {
-    "serve": "nodemon server.js"
+    "serve": "nodemon src/server.js"
   }
 }
